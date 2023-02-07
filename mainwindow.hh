@@ -24,10 +24,10 @@
 
 // A vector of strings which consist from the foods' filenames
 const std::vector<QString> FOOD_FILENAMES = {
-    "snake_food_a.png",
-    "snake_food_b.png",
-    "snake_food_c.png",
-    "snake_food_d.png"
+    ":/images/snake_food_a.png",
+    ":/images/snake_food_b.png",
+    ":/images/snake_food_c.png",
+    ":/images/snake_food_d.png"
 };
 
 const int NORMAL_SPEED = 1500;

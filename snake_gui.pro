@@ -32,3 +32,6 @@ DISTFILES += \
     snake_food_b.png \
     snake_food_c.png \
     snake_food_d.png
+
+RESOURCES += \
+    Resources.qrc
