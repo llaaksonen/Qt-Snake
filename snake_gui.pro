@@ -27,11 +27,5 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-DISTFILES += \
-    snake_food_a.png \
-    snake_food_b.png \
-    snake_food_c.png \
-    snake_food_d.png
-
 RESOURCES += \
     Resources.qrc
