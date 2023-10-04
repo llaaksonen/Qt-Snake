@@ -13,7 +13,8 @@
 # to different Point-variables' coordinates and it really helped   #
 # when creating the GUI with the snake and food moving inside it.  #
 #                                                                  #
-# Author: Lauri Laaksonen                                          #
+# Code template given by Tampere University,                       #
+# modified by Lauri Laaksonen#                                     #
 ####################################################################
 */
 
