@@ -15,7 +15,8 @@
 #              were methods I simply needed to create the project, #
 #              since they provide me access to required data.      #
 #                                                                  #
-# Author: Lauri Laaksonen                                          #
+# Code template given by Tampere University,                       #
+# modified by Lauri Laaksonen#                                     #
 ####################################################################
 */
 
