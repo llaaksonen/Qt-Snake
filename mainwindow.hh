@@ -8,8 +8,8 @@
 #              a GUI-version of a classic game called snake. This class     #
 #              is based on 2 different classes: GameBoard and Point.        #
 #                                                                           #
-# Program author:                                                           #
-#              * Name: Lauri Laaksonen                                      #
+# Code template given by Tampere University,                                #
+# modified by Lauri Laaksonen#                                              #
 #############################################################################
 */
 
