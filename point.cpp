@@ -9,7 +9,8 @@
 # Description: Declares a class representing a point in            #
 # the gameboard.                                                   #
 #                                                                  #
-# Author: Lauri Laaksonen                                          #
+# Code template given by Tampere University,                       #
+# modified by Lauri Laaksonen#                                     #
 ####################################################################
 */
 
