@@ -8,7 +8,8 @@
 # File: gameboard.cpp                                              #
 # Description: Defines a class representing the gameboard.         #
 #                                                                  #
-# Author: Lauri Laaksonen                                          #
+# Code template given by Tampere University,                       #
+# modified by Lauri Laaksonen#                                     #
 ####################################################################
 */
 
