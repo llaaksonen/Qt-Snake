@@ -7,8 +7,8 @@
 #              written all the methods used in the GUI-program and their    #
 #              functionality is also commented here.                        #
 #                                                                           #
-# Program author:                                                           #
-#              * Name: Lauri Laaksonen                                      #
+# Code template given by Tampere University,                                #
+# modified by Lauri Laaksonen#                                              #
 #############################################################################
 */
 
